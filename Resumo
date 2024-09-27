@@ -1,0 +1,25 @@
+Resumo 
+Infraestrutura como Serviço (IaaS):
+Responsabilidade: O cliente tem mais controle e responsabilidade sobre a configuração, monitoramento e manutenção dos recursos.
+Exemplos: Máquinas virtuais, armazenamento, redes.
+Uso: Ideal para quando você precisa de controle total sobre a infraestrutura e deseja personalizar o ambiente conforme suas necessidades.
+Plataforma como Serviço (PaaS):
+Responsabilidade: O provedor gerencia a infraestrutura subjacente, enquanto o cliente foca no desenvolvimento e gerenciamento de aplicações.
+Exemplos: Sistemas operacionais, ferramentas de desenvolvimento, gerenciamento de banco de dados.
+Uso: Útil para desenvolvedores que querem se concentrar na criação de aplicativos sem se preocupar com a gestão da infraestrutura.
+Software como Serviço (SaaS):
+Responsabilidade: O provedor gerencia tudo, desde a infraestrutura até as aplicações.
+Exemplos: Aplicativos de e-mail, CRM, ferramentas de colaboração.
+Uso: Ideal para usuários finais que precisam de acesso a aplicativos prontos para uso sem a necessidade de gerenciar a infraestrutura ou a plataforma.
+Esses conceitos são aplicáveis a qualquer provedor de nuvem, não apenas à Microsoft. Cada provedor pode ter nomes diferentes para seus serviços, mas os princípios básicos permanecem os mesmos.
+
+Infraestrutura como Serviço (IaaS):
+Responsabilidade: O cliente gerencia a infraestrutura, incluindo servidores, armazenamento e redes.
+Exemplo: Máquinas virtuais onde você configura tudo, desde o sistema operacional até as atualizações e backups.
+Plataforma como Serviço (PaaS):
+Responsabilidade: O provedor gerencia a infraestrutura e o sistema operacional, enquanto o cliente foca no desenvolvimento e gerenciamento de aplicações.
+Exemplo: Bancos de dados gerenciados, onde você só se preocupa com os dados e a aplicação, sem precisar gerenciar o servidor subjacente.
+Software como Serviço (SaaS):
+Responsabilidade: O provedor gerencia tudo, desde a infraestrutura até a aplicação.
+Exemplo: Aplicativos como o Microsoft 365, onde você usa o software pronto e configurado, e o que determina as funcionalidades disponíveis é o modelo de licenciamento adquirido.
+Cada modelo tem suas vantagens e é adequado para diferentes necessidades e cenários. Quanto mais você sobe na hierarquia (de IaaS para SaaS), menos responsabilidades você tem em termos de gerenciamento da infraestrutura e mais você pode focar no uso e na configuração das aplicações.
